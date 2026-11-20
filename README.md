@@ -6,7 +6,7 @@
 
 ---
 
-I just got back from [Live 360 in Orlando](https://live360events.com/events/orlando-2026/home.aspx), and if I had to pick the one question I heard more than any other this week, it was some variation of "do I need a vector database?"
+I (Rocky) just got back from [Live 360 in Orlando](https://live360events.com/events/orlando-2026/home.aspx), and if I had to pick the one question I heard more than any other this week, it was some variation of "do I need a vector database?"
 
 Sometimes it was "how do I give my agent memory?" or "what should I use for RAG?" or "we're thinking about standing up Pinecone (or Azure AI Search, or pgvector), is that the right call?" But it all comes back to the same basic question.
 
