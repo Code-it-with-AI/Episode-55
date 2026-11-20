@@ -14,8 +14,6 @@ The answer, of course, is: sometimes.
 
 I know, I know. Consultant answer. But it really does depend, and I think it is worth walking through _what_ it depends on, because the reasons are pretty concrete.
 
-[STORY: a specific conversation or two from the conference that captures how people were asking this]
-
 ## What vectors are good at
 
 Vectorization (text embedding, encoding, whatever term you prefer) takes a chunk of text and turns it into a long list of numbers that represents the _meaning_ of that text. Text with similar meaning ends up with similar numbers, even if the actual words are completely different.
