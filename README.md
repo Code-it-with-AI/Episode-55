@@ -1,6 +1,6 @@
 # Episode-55: Agentic memory - to vectorize or not
 
-📺 YouTube video: https://youtu.be/
+📺 YouTube video: https://youtu.be/Q2300q6Fg-g
 
 🏠 Code it with AI Home Page: https://codeitwithai.com
 
